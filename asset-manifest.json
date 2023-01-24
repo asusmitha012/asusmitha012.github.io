@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e740524.css",
+    "main.js": "/static/js/main.bc7ba4c2.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/portfo3.png": "/static/media/portfo3.cf576219b2bfbe8ec705.png",
+    "static/media/portfo2.png": "/static/media/portfo2.25bee690e2b3bcb85ddd.png",
+    "static/media/portfo1.png": "/static/media/portfo1.e84efd82c21860b43cbe.png",
+    "static/media/portfo6.png": "/static/media/portfo6.78e81ea07bb0bb9b6451.png",
+    "static/media/titaniumpartnersmastermind.PNG": "/static/media/titaniumpartnersmastermind.72616bb4d20de5a63a2f.PNG",
+    "static/media/facial.png": "/static/media/facial.a17311fa1fa424370074.png",
+    "static/media/perio.PNG": "/static/media/perio.f04ec27de19053d509b9.PNG",
+    "static/media/cv.pdf": "/static/media/cv.0360a45c607d1cb750f8.pdf",
+    "static/media/portfo4.png": "/static/media/portfo4.e47d9553c740ccde5f66.png",
+    "static/media/implant.PNG": "/static/media/implant.74f2c4f6ca47867c0910.PNG",
+    "static/media/sush.jpeg": "/static/media/sush.635795d0089cedd8925a.jpeg",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.6e740524.css.map": "/static/css/main.6e740524.css.map",
+    "main.bc7ba4c2.js.map": "/static/js/main.bc7ba4c2.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e740524.css",
+    "static/js/main.bc7ba4c2.js"
+  ]
+}
